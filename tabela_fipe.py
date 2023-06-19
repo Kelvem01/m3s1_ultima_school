@@ -1,5 +1,5 @@
 # criando classe de iteradores e geradores
-# integrando api
+
 
 import requests
 
